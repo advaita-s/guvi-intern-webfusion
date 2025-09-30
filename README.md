@@ -7,7 +7,7 @@
   3. Sessions are handled using Redis tokens with browser localStorage.
   4. The frontend is styled with Bootstrap and uses jQuery AJAX for smooth interaction (no form submissions).
 
-# 🔑 Features
+# Features
   1. User Registration with secure password hashing
   2. User Login with prepared statements
   3. Profile management (update age, DOB, contact)
