@@ -37,14 +37,14 @@ guvi-intern/
 │── login.html
 │── profile.html
 
-# ⚙️ Tech Stack
+# Tech Stack
 
   1. Frontend: HTML, CSS, Bootstrap, jQuery
   2. Backend: PHP
   3. Databases: MySQL & MongoDB
   4. Session Management: Redis + LocalStorage
 
-# 🚀 How to Run Locally
+# How to Run Locally
 
   1. Install XAMPP, MongoDB, and Redis (via WSL).
   2. Place the project in htdocs folder (C:\xampp\htdocs\guvi-intern).
